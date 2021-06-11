@@ -1,0 +1,22 @@
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\Hospital Charges.exe
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\Hospital Charges.pdb
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\MaterialDesignColors.dll
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\MaterialDesignColors.pdb
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.csprojAssemblyReference.cache
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\MainWindow.baml
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\MainWindow.g.cs
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\App.g.cs
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges_MarkupCompile.cache
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges_MarkupCompile.lref
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\App.baml
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.g.resources
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.cache
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.csproj.CoreCompileInputs.cache
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.csproj.CopyComplete
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.exe
+G:\conestoga\Software development\Assignments\Assignment 6\Hospital Charges\obj\Debug\Hospital Charges.pdb
